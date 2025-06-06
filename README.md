@@ -48,6 +48,7 @@ ami33_3_10:
 
 **Goal: Improve Wirelength in 5 minute.**  
 
+```text
 Phase 1: .nodes file  
          Total Nodes             : 847441  
          Movable Nodes           : 765102  
