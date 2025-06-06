@@ -46,5 +46,31 @@ ami33_3_10:
 
 ## Project3 : Improving Wirelength based on Abacus (Detail-Placement)
 
-**Goal: Improve Wirelength in 5 minute.**
+**Goal: Improve Wirelength in 5 minute.**  
+
+Phase 1: .nodes file
+         Total Nodes             : 847441
+         Movable Nodes           : 765102
+         Terminal Nodes          : 82339
+         Fixed Terminal Nodes    : 52627
+         Fixed_NI Terminal Nodes : 29712
+Phase 2: .shapes file
+         Total Non-Rectangular Nodes  : 37
+Phase 3: .pl file
+         Total Nodes  : 847441
+Phase 4: .scl file
+         NumRows   : 1829
+         RowHeight : 9
+         Image     : (18, 18) - (22482, 16479)
+Phase 5: solution .pl (LG_E24096205_superblue1.pl) file
+         Total Nodes  : 847441
+-----------------------------------------------------
+Phase 6: Check Legality
+         ERROR_TYPE 0: 0
+         ERROR_TYPE 1: 0
+         ERROR_TYPE 2: 0
+         ERROR_TYPE 3: 0
+         ERROR_TYPE 4: 0
+         Placement is legal
+-----------------------------------------------------
 
