@@ -90,8 +90,8 @@ Phase 6: Check Legality
 Horizontal Routing Congestion  Vertical Routing Congestion
 
 <p>
-<img src="Project4_CE/Horizontal_Routing_Congestion.png" width="550" height="350" />
-<img src="Project4_CE/Vertical_Routing_Congestion.png" width="550" height="350" />
+<img src="Project4_CE/Horizontal_Routing_Congestion.png" width="500" height="325" />
+<img src="Project4_CE/Vertical_Routing_Congestion.png" width="500" height="325" />
 </p>
 
 
