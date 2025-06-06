@@ -14,7 +14,7 @@ N25K200 2023 NCKU-PHYSICAL DESIGN for NANOMETER IC's Projects
 
 <img src="Project1_FM/runtime_vs_pin.png" width="550" height="350" />
 
----
+---  
 
 
 ## Project2 : Simulated Annealing Algorithm (Placement)
@@ -23,6 +23,6 @@ N25K200 2023 NCKU-PHYSICAL DESIGN for NANOMETER IC's Projects
 
 *Benchmark ami33*
 
-ami33_1_10: 
-aspect_ratio = 1 Whitr space: 10%
+ami33_1_10:   
+aspect_ratio = 1   White space: 10%
 <img src="Project2_SA/ami33_1_10.png" width="550" height="350" />
