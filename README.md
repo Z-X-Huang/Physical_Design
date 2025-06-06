@@ -3,7 +3,7 @@ N25K200 2023 NCKU-PHYSICAL DESIGN for NANOMETER IC's Projects
 
 ## Project1 : Fiduccia–Mattheyses algorithm (Partition)
 
-**Goal : Minimum two groups of cut‐size**
+**Goal : Minimize the cut‐size between two partitions.**
 | Benchmark   | Pin num | Initial Cut_size | Final Cut_size | RunTime(s) |
 |:-----------:|:-------:|:----------------:|:--------------:|:----------:|
 | adaptec1    |  944053 |           15157  |         10384  |      1.03  |
@@ -19,7 +19,7 @@ N25K200 2023 NCKU-PHYSICAL DESIGN for NANOMETER IC's Projects
 
 ## Project2 : Simulated Annealing Algorithm (Placement)
 
-**Goal: Perturbation Randomly to place objects.**
+**Goal: Randomly perturb object for placement.**
 
 *Benchmark ami33*
 
@@ -40,3 +40,11 @@ ami33_3_10:
   >White space: 10%
   
 <img src="Project2_SA/ami33_3_10.png" width="550" height="350" />
+
+---  
+
+
+## Project3 : Improving Wirelength based on Abacus (Detail-Placement)
+
+**Goal: Improve Wirelength in 5 minute.**
+
