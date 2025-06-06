@@ -5,7 +5,7 @@ N25K200 2023 NCKU-PHYSICAL DESIGN for NANOMETER IC's Projects
 
 **Goal : Minimum two groups of cut‐size**
 | Benchmark   | Pin num | Initial Cut_size | Final Cut_size | RunTime(s) |
-|-------------|---------|------------------|----------------|------------|
+|:-----------:|--------:|-----------------:|---------------:|-----------:|
 | adaptec1    |  944053 |           15157  |         10384  |      1.03  |
 | adaptec2    | 1069482 |           23409  |         17088  |      1.23  |
 | adaptec3    | 1875039 |          102851  |         61558  |      2.63  |
@@ -13,3 +13,9 @@ N25K200 2023 NCKU-PHYSICAL DESIGN for NANOMETER IC's Projects
 | superblue2  | 3228345 |          267205  |        196989  |     14.56  |
 
 <img src="Project1_FM/runtime_vs_pin.png" width="600" height="375" />
+
+<p align="center">
+  <strong>Figure 1. RunTime vs #Pin</strong>
+  <br>
+  <img src="images/runtime_vs_pin.png" alt="RunTime vs Pin" style="max-width: 80%; height: auto;" />
+</p>
