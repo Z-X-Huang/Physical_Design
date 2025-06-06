@@ -87,7 +87,7 @@ Phase 6: Check Legality
 
 *Benchmark adaptec1*
 
-`    `Horizontal Routing Congestion  `                  `  Vertical Routing Congestion
+&nbsp;&nbsp;&nbsp;Horizontal Routing Congestion &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Vertical Routing Congestion
 
 <p>
 <img src="Project4_CE/Horizontal_Routing_Congestion.png" width="500" height="325" />
