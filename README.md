@@ -25,4 +25,5 @@ N25K200 2023 NCKU-PHYSICAL DESIGN for NANOMETER IC's Projects
 
 ami33_1_10:   
 aspect_ratio = 1   White space: 10%
+  
 <img src="Project2_SA/ami33_1_10.png" width="550" height="350" />
