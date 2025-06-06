@@ -19,3 +19,12 @@ N25K200 2023 NCKU-PHYSICAL DESIGN for NANOMETER IC's Projects
   <br>
   <img src="Project1_FM/runtime_vs_pin.png" alt="RunTime vs Pin" style="max-width: 80%; height: auto;" />
 </p>
+
+<p align="center">
+  <strong>Figure 1. RunTime vs #Pin</strong><br>
+  <img 
+    src="Project1_FM/runtime_vs_pin.png" 
+    alt="RunTime vs Pin" 
+    style="max-width:80%; height:auto; border:1px solid #ccc;" 
+  />
+</p>
