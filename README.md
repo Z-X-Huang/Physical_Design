@@ -14,4 +14,9 @@ N25K200 2023 NCKU-PHYSICAL DESIGN for NANOMETER IC's Projects
 
 <img src="Project1_FM/runtime_vs_pin.png" width="550" height="350" />
 
+---
+
+## Project1 : Simulated Annealing Algorithm (Placement)
+
+**Goal: Perturbation Randomly to place objects.**
 
