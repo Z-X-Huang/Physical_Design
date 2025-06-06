@@ -12,6 +12,6 @@ N25K200 2023 NCKU-PHYSICAL DESIGN for NANOMETER IC's Projects
 | superblue1  | 2861188 |          212136  |         65971  |     29.36  |
 | superblue2  | 3228345 |          267205  |        196989  |     14.56  |
 
-<img src="Project1_FM/runtime_vs_pin.png" width="600" height="375" />
+<img src="Project1_FM/runtime_ssssvs_pin.png" width="600" height="375" />
 
 
