@@ -48,6 +48,8 @@ ami33_3_10:
 
 **Goal: Improve Wirelength in 5 minute.**  
 
+*Benchmark superblue1*
+
 ```text
 Phase 1: .nodes file  
          Total Nodes             : 847441  
@@ -79,6 +81,13 @@ Phase 6: Check Legality
 ---  
 
 
-## Project3 : Improving Wirelength based on Abacus (Detail-Placement)
+## Project4 : Routing congestion estimation based on Flute (Routing)
 
-**Goal: Improve Wirelength in 5 minute.**  
+**Goal: Use Flute to transfer nets to rectilinear Steiner minimal trees (RSMT) and estimate routing congestion.**  
+
+*Benchmark adaptec1*
+
+Horizontal Routing Congestion
+<img src="Project4_CE/Horizontal_Routing_Congestion.png" width="550" height="350" />
+
+
