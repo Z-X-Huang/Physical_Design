@@ -74,4 +74,11 @@ Phase 6: Check Legality
          ERROR_TYPE 4: 0  
          Placement is legal  
 -----------------------------------------------------  
+```
 
+---  
+
+
+## Project3 : Improving Wirelength based on Abacus (Detail-Placement)
+
+**Goal: Improve Wirelength in 5 minute.**  
